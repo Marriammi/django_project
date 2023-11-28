@@ -46,5 +46,4 @@ Example of using:
     http://127.0.0.1:8000/api/v1/hello-world-6
 
 ## ❗
-
 This example assumes that your Django development server is running locally on http://127.0.0.1:8000. Make sure to adjust the URLs accordingly if your setup is different.
